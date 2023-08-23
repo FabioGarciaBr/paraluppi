@@ -10922,19 +10922,17 @@ textarea.form-control-lg {
   .colunas .col1{
     display: none;
   }
-  .col2{
+   .col2{
     width: 96%;
-    margin-left: 15px;
-    margin-right: 15px;
+    padding: 0 2%;
   }
 
   .colunas .esquerda{
     display: none;
   }
   .colunas .direita{
-      width: 96%;
-    margin-left: 15px;
-    margin-right: 15px;
+    width: 96%;
+    padding: 0 2%;
   }
 }
 @media screen and (max-width: 400px){
