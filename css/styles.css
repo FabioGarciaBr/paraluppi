@@ -10905,6 +10905,9 @@ textarea.form-control-lg {
   color: white;
   font-size: 10px;
 }
+.separador{
+  display: none;
+}
 @media screen and (max-width: 768px){
   #contra-mapa{
     width: 90%;
@@ -10933,6 +10936,12 @@ textarea.form-control-lg {
   .colunas .direita{
     width: 96%;
     padding: 0 2%;
+  }
+  .separador{
+  display: block;
+  }
+  .separador >img{
+    width: 100%;
   }
 }
 @media screen and (max-width: 400px){
