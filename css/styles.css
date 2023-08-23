@@ -10928,6 +10928,7 @@ textarea.form-control-lg {
    .col2{
     width: 96%;
     padding: 0 2%;
+    margin-top: 0;
   }
 
   .colunas .esquerda{
@@ -10936,6 +10937,7 @@ textarea.form-control-lg {
   .colunas .direita{
     width: 96%;
     padding: 0 2%;
+    margin-top: 0;
   }
   .separador{
   display: block;
